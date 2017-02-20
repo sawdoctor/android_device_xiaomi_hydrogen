@@ -9,6 +9,7 @@ use.qti.sw.ape.decoder=true
 
 # Camera
 media.camera.ts.monotonic=1
+persist.camera.HAL3.enabled=1
 
 # Display
 ro.qcom.ad=1
